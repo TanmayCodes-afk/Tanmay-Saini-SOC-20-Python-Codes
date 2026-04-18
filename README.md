@@ -1,2 +1,2 @@
-#SEM-II-PYTHON
-Python assignments for Semester-II
+
+Python assignments for Sem-II
