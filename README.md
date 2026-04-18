@@ -1,2 +1,2 @@
-# Tanmay-Saini-SOC-20-Python-Codes
+#SEM-II-PYTHON
 Python assignments for Semester-II
